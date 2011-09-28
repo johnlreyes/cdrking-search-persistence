@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>per.search</groupId>
+  <artifactId>persistence-POM</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20110928.231253</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20110928231253</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1-20110928.231253-3</value>
+        <updated>20110928231253</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
