@@ -1,0 +1,4 @@
+
+mvn -DperformRelease=true clean deploy
+git commit
+git push
